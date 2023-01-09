@@ -2,7 +2,7 @@
 title: "Intragenerational mobility and the concept of the equalization of longer-term incomes: An estimation for a developing country"
 collection: publications
 permalink: /publication/Intragenerational_Mobility
-excerpt: ''
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-11-09
 venue: 'Socio-Economic Planning Sciences'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0038012122002646'
