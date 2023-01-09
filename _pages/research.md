@@ -36,8 +36,8 @@ of labor force to formal employment. These results suggest that payroll tax redu
 have a positive effect on the flow of young workers into formal employment.
 </small><br><br/></div>
 
-[labor-slides]:{{ site.baseurl }}{% link assets/files/LogUniqueHOD0_Draft.pdf %}
-[labor-draf]: https://arxiv.org/pdf/2102.01291.pdf
+[labor-slides]:{{ site.baseurl }}{% link assets/files/Master_Dissertation_Slides.pdf %}
+[labor-draft]:{{ site.baseurl }}{% link assets/files/Labor_Market_Flows_of_Young_Workers_in_Colombia.pdf %} 
 
 # <center> Published and Forthcoming Papers </center>
 - - -
