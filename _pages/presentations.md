@@ -15,9 +15,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 **El Uso de Microdatos para el Análisis Económico y el Avance de las Políticas Públicas** 2021.<br/>
-<small>[ <a href="#/" onclick="visib('log0')">Summary</a> | [Seminar Link][red-link] ] </small>
+<small>[ <a href="#/" onclick="visib('red')">Summary</a> | [Seminar Link][red-link] ] </small>
 
-<div id="log0" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="red" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Speaker in the annual congress <em>"El uso de microdatos para el análisis económico y el avance de las políticas públicas"</em> presenting the paper <em>"Labor Market Flows Of Young Workers In Colombia"</em>. The conference brought together academics, experts, young researchers, practitioners, and policy makers to present and discuss research papers in applied microeconomics, with special emphasis on applications using microdata, such as administrative records, censuses, surveys, and information Historical and updated. 
 </small><br><br/></div>
 
