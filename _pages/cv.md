@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-======
+# <center> CV </center>
+
 [embed]{{ site.baseurl }}{% link assets/files/CV_NicolasMancera.pdf %}[/embed]
 
 <embed
