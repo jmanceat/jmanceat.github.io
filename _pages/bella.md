@@ -10,7 +10,7 @@ permalink: /bella/
 # <center> Bella </center>
 - - -
 
-She is is my research assitant Bella. 
+She is is my research assistant Bella. 
 
 <div class="embed-spotify-song">
     <iframe src="https://open.spotify.com/track/2dbA4sPwu3iK72c0mA6907?si=d492224dd8134263"  
