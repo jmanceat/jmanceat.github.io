@@ -14,6 +14,6 @@ She is my research assistant Bella. And this is her [Song](https://open.spotify.
 
 ![bella](/assets/files/Bella/bella_2.jpeg)
 
-![bella](/assets/files/Bella/IMG_7311.jpeg) 
+![bella](/assets/files/Bella/bella_3.jpeg) 
 
 
