@@ -16,7 +16,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 **Intragenerational mobility and the concept of the equalization of longer-term incomes: An estimation for a developing country** 
 (with Mauricio Quiñones, Christian Posso, Carlos Medina and Juan Carlos Duque). 2022.
-*Forthcoming, Socio-Economic Planning Sciences*
+*Socio-Economic Planning Sciences, 86, 101463*
 <br/>
 <small>[ <a href="#/" onclick="visib('hpt')">Abstract</a> | [Link][intra-link] ] </small>
 
